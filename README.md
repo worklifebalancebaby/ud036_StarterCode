@@ -1,5 +1,5 @@
 # Movie Trailer Website
-This is a python program that launches a page in your web browser displaying movie posters as links to pop-up windows showing the movie trailer. The program uses bootstrap and and html format to create this web browser page. 
+This is a python program that launches a page in your web browser displaying movie posters as links to pop-up windows showing the movie trailer. The program uses bootstrap and html format to create the web browser page. 
 # Install
 - you will need to have python installed on your computer to run this program
 - the `entertainment_center.py` file contains the instances of the class Movie that will be displayed on the web page. 
